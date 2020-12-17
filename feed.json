@@ -6,20 +6,20 @@
     "description": "Atrist's Blog",
     "items": [
         {
-            "id": "https://atrist.github.io/blog/2020/06/02/making-predictions-from-2d-data/",
-            "url": "https://atrist.github.io/blog/2020/06/02/making-predictions-from-2d-data/",
-            "title": "Making Predictions from 2D Data",
-            "summary": "TensorFlow的官方项目--从二维数据进行预测的 教程翻译,以及做过的经验",
-            "image": "https://codelabs.developers.google.com/codelabs/tfjs-training-regression/img/cf44e823106c758e.png",
-            "date_modified": "2020-06-02T00:00:00.000Z"
-        },
-        {
             "id": "https://atrist.github.io/blog/2020/07/08/handwritten-digit-recognition-with-cnns/",
             "url": "https://atrist.github.io/blog/2020/07/08/handwritten-digit-recognition-with-cnns/",
             "title": "Handwritten digit recognition with CNNs",
             "summary": "TensorFlow的官方项目-- 带有CNN的手写数字识别",
             "image": "https://codelabs.developers.google.com/codelabs/tfjs-training-classfication/img/c01d85004462fd48.png",
             "date_modified": "2020-07-08T00:00:00.000Z"
+        },
+        {
+            "id": "https://atrist.github.io/blog/2020/06/02/making-predictions-from-2d-data/",
+            "url": "https://atrist.github.io/blog/2020/06/02/making-predictions-from-2d-data/",
+            "title": "Making Predictions from 2D Data",
+            "summary": "TensorFlow的官方项目--从二维数据进行预测的 教程翻译,以及做过的经验",
+            "image": "https://codelabs.developers.google.com/codelabs/tfjs-training-regression/img/cf44e823106c758e.png",
+            "date_modified": "2020-06-02T00:00:00.000Z"
         },
         {
             "id": "https://atrist.github.io/blog/2020/05/16/awesome-chrome/",
