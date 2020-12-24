@@ -10,7 +10,6 @@
             "url": "https://atrist.github.io/blog/2020/07/08/handwritten-digit-recognition-with-cnns/",
             "title": "Handwritten digit recognition with CNNs",
             "summary": "TensorFlow的官方项目-- 带有CNN的手写数字识别",
-            "image": "https://codelabs.developers.google.com/codelabs/tfjs-training-classfication/img/c01d85004462fd48.png",
             "date_modified": "2020-07-08T00:00:00.000Z"
         },
         {
@@ -18,7 +17,6 @@
             "url": "https://atrist.github.io/blog/2020/06/02/making-predictions-from-2d-data/",
             "title": "Making Predictions from 2D Data",
             "summary": "TensorFlow的官方项目--从二维数据进行预测的 教程翻译,以及做过的经验",
-            "image": "https://codelabs.developers.google.com/codelabs/tfjs-training-regression/img/cf44e823106c758e.png",
             "date_modified": "2020-06-02T00:00:00.000Z"
         },
         {
@@ -47,7 +45,6 @@
             "url": "https://atrist.github.io/blog/2020/05/20/element-ui%E8%A1%A8%E5%8D%95%E5%8A%A8%E6%80%81%E6%98%BE%E7%A4%BA%E9%94%99%E8%AF%AF%E4%BF%A1%E6%81%AF/",
             "title": "element-ui表单动态显示错误信息",
             "summary": "element-ui继承了表单校检,是一般是静态的表单校检",
-            "image": "https://atrist.github.io/blog/./image/element-form.png",
             "date_modified": "2020-05-20T00:00:00.000Z"
         },
         {
@@ -55,7 +52,6 @@
             "url": "https://atrist.github.io/blog/2020/05/16/awesome-chrome/",
             "title": "chrome插件",
             "summary": "我所使用的一些的chrome插件",
-            "image": "https://atrist.github.io/blog/./images/chrome-translate.png",
             "date_modified": "2020-05-16T00:00:00.000Z"
         },
         {
@@ -64,6 +60,20 @@
             "title": "vscode插件",
             "summary": "我所使用的一些的vscode插件",
             "date_modified": "2020-05-16T00:00:00.000Z"
+        },
+        {
+            "id": "https://atrist.github.io/blog/2020/12/21/leetcode215/",
+            "url": "https://atrist.github.io/blog/2020/12/21/leetcode215/",
+            "title": "数组中的第 k 个最大元素",
+            "summary": "刷算法,向前进",
+            "date_modified": "2020-12-21T00:00:00.000Z"
+        },
+        {
+            "id": "https://atrist.github.io/blog/2020/12/18/leetcode347/",
+            "url": "https://atrist.github.io/blog/2020/12/18/leetcode347/",
+            "title": "前 K 个高频元素",
+            "summary": "刷算法,向前进",
+            "date_modified": "2020-12-18T00:00:00.000Z"
         },
         {
             "id": "https://atrist.github.io/blog/2020/12/18/leetcode75/",
@@ -91,7 +101,6 @@
             "url": "https://atrist.github.io/blog/2020/12/16/leetcode17/",
             "title": "电话号码的字母组合",
             "summary": "刷算法,向前进",
-            "image": "https://atrist.github.io/blog/./images/17_telephone_keypad.png",
             "date_modified": "2020-12-16T00:00:00.000Z"
         },
         {
@@ -113,7 +122,6 @@
             "url": "https://atrist.github.io/blog/2020/12/15/leetcode230/",
             "title": "二叉搜索树中第 k 小的元素",
             "summary": "刷算法,向前进",
-            "image": "https://atrist.github.io/blog/./images/230_fig1.jpg",
             "date_modified": "2020-12-15T00:00:00.000Z"
         },
         {
@@ -135,7 +143,6 @@
             "url": "https://atrist.github.io/blog/2020/12/14/leetcode116/",
             "title": "填充每个节点的下一个右侧节点指针",
             "summary": "刷算法,向前进",
-            "image": "https://atrist.github.io/blog/./images/116_sample.png",
             "date_modified": "2020-12-14T00:00:00.000Z"
         },
         {
@@ -143,7 +150,6 @@
             "url": "https://atrist.github.io/blog/2020/12/13/leetcode103/",
             "title": "二叉树的锯齿形层次遍历",
             "summary": "刷算法,向前进",
-            "image": "https://atrist.github.io/blog/./images/103_BFS.png",
             "date_modified": "2020-12-13T00:00:00.000Z"
         },
         {
@@ -151,21 +157,12 @@
             "url": "https://atrist.github.io/blog/2020/12/13/leetcode94/",
             "title": "二叉树的中序遍历",
             "summary": "刷算法,向前进",
-            "image": "https://atrist.github.io/blog/./images/inorder_1.jpg",
             "date_modified": "2020-12-13T00:00:00.000Z"
         },
         {
             "id": "https://atrist.github.io/blog/2020/12/12/leetcode160/",
             "url": "https://atrist.github.io/blog/2020/12/12/leetcode160/",
             "title": "相交链表",
-            "summary": "刷算法,向前进",
-            "image": "https://atrist.github.io/blog/./images/160_statement.png",
-            "date_modified": "2020-12-12T00:00:00.000Z"
-        },
-        {
-            "id": "https://atrist.github.io/blog/2020/12/12/leetcode2/",
-            "url": "https://atrist.github.io/blog/2020/12/12/leetcode2/",
-            "title": "两数相加",
             "summary": "刷算法,向前进",
             "date_modified": "2020-12-12T00:00:00.000Z"
         },
@@ -174,7 +171,13 @@
             "url": "https://atrist.github.io/blog/2020/12/12/leetcode328/",
             "title": "奇偶链表",
             "summary": "刷算法,向前进",
-            "image": "https://atrist.github.io/blog/./images/328_fig1.png",
+            "date_modified": "2020-12-12T00:00:00.000Z"
+        },
+        {
+            "id": "https://atrist.github.io/blog/2020/12/12/leetcode2/",
+            "url": "https://atrist.github.io/blog/2020/12/12/leetcode2/",
+            "title": "两数相加",
+            "summary": "刷算法,向前进",
             "date_modified": "2020-12-12T00:00:00.000Z"
         },
         {
@@ -196,7 +199,6 @@
             "url": "https://atrist.github.io/blog/2020/12/11/leetcode5/",
             "title": "最长回文子串",
             "summary": "刷算法,向前进",
-            "image": "https://atrist.github.io/blog/./images/5_fig1.png",
             "date_modified": "2020-12-11T00:00:00.000Z"
         },
         {
@@ -211,7 +213,6 @@
             "url": "https://atrist.github.io/blog/2020/12/10/leetcode49/",
             "title": "字母异位词分组",
             "summary": "刷算法,向前进",
-            "image": "https://atrist.github.io/blog/./images/49_fig1.png",
             "date_modified": "2020-12-10T00:00:00.000Z"
         },
         {
@@ -219,7 +220,6 @@
             "url": "https://atrist.github.io/blog/2020/12/10/leetcode73/",
             "title": "矩阵置零",
             "summary": "刷算法,向前进",
-            "image": "https://atrist.github.io/blog/./images/73_fig1.png",
             "date_modified": "2020-12-10T00:00:00.000Z"
         },
         {
@@ -248,7 +248,6 @@
             "url": "https://atrist.github.io/blog/2020/09/12/leetcode036/",
             "title": "有效的数独",
             "summary": "刷算法,向前进",
-            "image": "https://atrist.github.io/blog/./images/250px-Sudoku-by-L2G-20050714.svg.png",
             "date_modified": "2020-09-12T00:00:00.000Z"
         },
         {
@@ -285,20 +284,6 @@
             "title": "旋转数组",
             "summary": "刷算法,向前进",
             "date_modified": "2020-08-14T00:00:00.000Z"
-        },
-        {
-            "id": "https://atrist.github.io/blog/2020/08/13/leetcode002/",
-            "url": "https://atrist.github.io/blog/2020/08/13/leetcode002/",
-            "title": "买卖股票的最佳时机 II",
-            "summary": "刷算法,向前进",
-            "date_modified": "2020-08-13T00:00:00.000Z"
-        },
-        {
-            "id": "https://atrist.github.io/blog/2020/08/12/leetcode026/",
-            "url": "https://atrist.github.io/blog/2020/08/12/leetcode026/",
-            "title": "删除排序数组中的重复项",
-            "summary": "刷算法,向前进",
-            "date_modified": "2020-08-12T00:00:00.000Z"
         }
     ]
 }
