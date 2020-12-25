@@ -4,7 +4,7 @@
         <title>Atrist</title>
         <link>https://atrist.github.io/blog/</link>
         <description>Atrist&apos;s Blog</description>
-        <lastBuildDate>Thu, 24 Dec 2020 05:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Dec 2020 01:24:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://atrist.github.io/blog/feed.atom" rel="self" type="application/rss+xml"/>
@@ -63,6 +63,20 @@
             <guid>https://atrist.github.io/blog/2020/05/16/awesome-vscode/</guid>
             <pubDate>Sat, 16 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[我所使用的一些的vscode插件]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在排序数组中查找元素的第一个和最后一个位置]]></title>
+            <link>https://atrist.github.io/blog/2020/12/25/leetcode34/</link>
+            <guid>https://atrist.github.io/blog/2020/12/25/leetcode34/</guid>
+            <pubDate>Fri, 25 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[刷算法,向前进]]></description>
+        </item>
+        <item>
+            <title><![CDATA[寻找峰值]]></title>
+            <link>https://atrist.github.io/blog/2020/12/24/leetcode162/</link>
+            <guid>https://atrist.github.io/blog/2020/12/24/leetcode162/</guid>
+            <pubDate>Thu, 24 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[刷算法,向前进]]></description>
         </item>
         <item>
             <title><![CDATA[数组中的第 k 个最大元素]]></title>
@@ -170,16 +184,16 @@
             <description><![CDATA[刷算法,向前进]]></description>
         </item>
         <item>
-            <title><![CDATA[奇偶链表]]></title>
-            <link>https://atrist.github.io/blog/2020/12/12/leetcode328/</link>
-            <guid>https://atrist.github.io/blog/2020/12/12/leetcode328/</guid>
+            <title><![CDATA[两数相加]]></title>
+            <link>https://atrist.github.io/blog/2020/12/12/leetcode2/</link>
+            <guid>https://atrist.github.io/blog/2020/12/12/leetcode2/</guid>
             <pubDate>Sat, 12 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[刷算法,向前进]]></description>
         </item>
         <item>
-            <title><![CDATA[两数相加]]></title>
-            <link>https://atrist.github.io/blog/2020/12/12/leetcode2/</link>
-            <guid>https://atrist.github.io/blog/2020/12/12/leetcode2/</guid>
+            <title><![CDATA[奇偶链表]]></title>
+            <link>https://atrist.github.io/blog/2020/12/12/leetcode328/</link>
+            <guid>https://atrist.github.io/blog/2020/12/12/leetcode328/</guid>
             <pubDate>Sat, 12 Dec 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[刷算法,向前进]]></description>
         </item>
@@ -272,20 +286,6 @@
             <link>https://atrist.github.io/blog/2020/08/24/leetcode005/</link>
             <guid>https://atrist.github.io/blog/2020/08/24/leetcode005/</guid>
             <pubDate>Mon, 24 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[刷算法,向前进]]></description>
-        </item>
-        <item>
-            <title><![CDATA[存在重复元素]]></title>
-            <link>https://atrist.github.io/blog/2020/08/17/leetcode004/</link>
-            <guid>https://atrist.github.io/blog/2020/08/17/leetcode004/</guid>
-            <pubDate>Mon, 17 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[刷算法,向前进]]></description>
-        </item>
-        <item>
-            <title><![CDATA[旋转数组]]></title>
-            <link>https://atrist.github.io/blog/2020/08/14/leetcode003/</link>
-            <guid>https://atrist.github.io/blog/2020/08/14/leetcode003/</guid>
-            <pubDate>Fri, 14 Aug 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[刷算法,向前进]]></description>
         </item>
     </channel>
