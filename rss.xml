@@ -4,7 +4,7 @@
         <title>Atrist</title>
         <link>https://atrist.github.io/blog/</link>
         <description>Atrist&apos;s Blog</description>
-        <lastBuildDate>Sat, 26 Dec 2020 10:52:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Dec 2020 02:33:59 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://atrist.github.io/blog/feed.atom" rel="self" type="application/rss+xml"/>
@@ -63,6 +63,13 @@
             <guid>https://atrist.github.io/blog/2020/05/16/awesome-vscode/</guid>
             <pubDate>Sat, 16 May 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[我所使用的一些的vscode插件]]></description>
+        </item>
+        <item>
+            <title><![CDATA[最长递增子序列]]></title>
+            <link>https://atrist.github.io/blog/2020/12/28/leetcode300/</link>
+            <guid>https://atrist.github.io/blog/2020/12/28/leetcode300/</guid>
+            <pubDate>Mon, 28 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[刷算法,向前进]]></description>
         </item>
         <item>
             <title><![CDATA[零钱兑换]]></title>
@@ -279,13 +286,6 @@
             <link>https://atrist.github.io/blog/2020/12/10/leetcode73/</link>
             <guid>https://atrist.github.io/blog/2020/12/10/leetcode73/</guid>
             <pubDate>Thu, 10 Dec 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[刷算法,向前进]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加一]]></title>
-            <link>https://atrist.github.io/blog/2020/09/03/leetcode007/</link>
-            <guid>https://atrist.github.io/blog/2020/09/03/leetcode007/</guid>
-            <pubDate>Thu, 03 Sep 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[刷算法,向前进]]></description>
         </item>
     </channel>
