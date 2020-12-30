@@ -209,16 +209,16 @@
             "date_modified": "2020-12-15T00:00:00.000Z"
         },
         {
-            "id": "https://atrist.github.io/blog/2020/12/14/leetcode116/",
-            "url": "https://atrist.github.io/blog/2020/12/14/leetcode116/",
-            "title": "填充每个节点的下一个右侧节点指针",
+            "id": "https://atrist.github.io/blog/2020/12/14/leetcode105/",
+            "url": "https://atrist.github.io/blog/2020/12/14/leetcode105/",
+            "title": "从前序与中序遍历序列构造二叉树",
             "summary": "刷算法,向前进",
             "date_modified": "2020-12-14T00:00:00.000Z"
         },
         {
-            "id": "https://atrist.github.io/blog/2020/12/14/leetcode105/",
-            "url": "https://atrist.github.io/blog/2020/12/14/leetcode105/",
-            "title": "从前序与中序遍历序列构造二叉树",
+            "id": "https://atrist.github.io/blog/2020/12/14/leetcode116/",
+            "url": "https://atrist.github.io/blog/2020/12/14/leetcode116/",
+            "title": "填充每个节点的下一个右侧节点指针",
             "summary": "刷算法,向前进",
             "date_modified": "2020-12-14T00:00:00.000Z"
         },
