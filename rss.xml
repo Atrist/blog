@@ -4,7 +4,7 @@
         <title>Atrist</title>
         <link>https://atrist.github.io/blog/</link>
         <description>Atrist&apos;s Blog</description>
-        <lastBuildDate>Thu, 31 Dec 2020 09:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2021 05:13:04 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://atrist.github.io/blog/feed.atom" rel="self" type="application/rss+xml"/>
